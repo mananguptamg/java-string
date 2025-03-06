@@ -1,6 +1,6 @@
 import java.util.Scanner;;
 
-class LengthOfString {
+class StringLength {
     // Method to calculate length of a string without using length() method
     public static int stringLength(String s) {
         int count = 0;
